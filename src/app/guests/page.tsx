@@ -27,7 +27,7 @@ export default function GuestsPage() {
       </p>
 
       <div className="mb-10 rounded-lg overflow-hidden border border-[var(--border)]">
-        <img src="/hellmouthcon/guests.png" alt="HellmouthCon 2026 guests" className="w-full h-auto" />
+        <img src="/guests.png" alt="HellmouthCon 2026 guests" className="w-full h-auto" />
       </div>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">

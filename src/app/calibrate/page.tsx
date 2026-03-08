@@ -160,7 +160,7 @@ export default function CalibratePage() {
             onMouseLeave={() => setCursor(null)}
           >
             <image
-              href="/hellmouthcon/venue-map.png"
+              href="/venue-map.png"
               x="0"
               y="0"
               width={VIEWBOX_W}

@@ -64,7 +64,7 @@ export default function VenueMap({ rooms }: Props) {
         >
           {/* Official venue map as background */}
           <image
-            href="/hellmouthcon/venue-map.png"
+            href="/venue-map.png"
             x="0"
             y="0"
             width="890"
