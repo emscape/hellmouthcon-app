@@ -41,7 +41,7 @@ export default function HomePage() {
           <p className="text-[var(--color-crimson-400)] text-sm tracking-[0.3em] uppercase mb-4 font-display">
             Fandom Charities Presents
           </p>
-          <h1 className="font-display text-5xl md:text-7xl font-bold text-[var(--color-hellmouth-50)] mb-4 leading-tight">
+          <h1 className="font-display text-[2.25rem] sm:text-5xl md:text-7xl font-bold text-[var(--color-hellmouth-50)] mb-4 leading-tight">
             HellmouthCon
             <span className="block text-[var(--color-crimson-500)]">2026</span>
           </h1>

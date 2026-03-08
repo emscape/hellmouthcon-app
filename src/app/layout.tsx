@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   title: 'HellmouthCon 2026',
   description:
     'HellmouthCon 2026 — A Buffy the Vampire Slayer fan convention at Torrance High School, June 13–14 2026.',
+  icons: { icon: '/favicon.svg' },
   openGraph: {
     title: 'HellmouthCon 2026',
     description:
