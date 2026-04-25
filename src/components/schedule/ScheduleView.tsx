@@ -7,8 +7,8 @@ import EventCard from './EventCard';
 import { cn } from '@/lib/utils';
 
 const days: { value: ConventionDay; label: string; date: string }[] = [
-  { value: 'saturday', label: 'Saturday', date: 'June 13' },
-  { value: 'sunday', label: 'Sunday', date: 'June 14' },
+  { value: 'saturday', label: 'Saturday', date: 'June 14' },
+  { value: 'sunday', label: 'Sunday', date: 'June 15' },
 ];
 
 interface Props {
